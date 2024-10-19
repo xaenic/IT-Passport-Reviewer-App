@@ -13,6 +13,10 @@ The IT Passport Quiz App is designed to help users prepare for the IT Passport E
 - **User Authentication**: Secure login and registration to keep your progress safe.
 - **Responsive Design**: Optimized for both Android and iOS devices.
 
+## Demo
+![Demo GIF](demo.gif)
+
+
 ## Screenshots
 
 
