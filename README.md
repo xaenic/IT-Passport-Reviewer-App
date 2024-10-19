@@ -20,6 +20,12 @@ The IT Passport Quiz App is designed to help users prepare for the IT Passport E
 ![Question Screen](quiz.jpg)
 ![ChatGPT](gpt.jpg)
 
+## Download
+
+You can download the IT Passport Quiz App from the following links:
+
+- [Download](https://expo.dev/artifacts/eas/tXjhdVWa8LBSHMoRsbmWCv.apk)
+
 ## Technologies Used
 
 - **React Native**: For building the mobile application.
